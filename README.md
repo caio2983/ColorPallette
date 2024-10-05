@@ -8,7 +8,7 @@
 
 <h2>Technologies ⚙️</h2>
 
-<p>Project Made with React.The image's color palette is found through a JavaScript algorithm that uses a technique called Color Quantization.Wikipedia describes Color Quantizationn as:
+<p>Project Made with React while I was learning NextJS' basics.The image's color palette is found through a JavaScript algorithm that uses a technique called Color Quantization.Wikipedia describes Color Quantizationn as:
 </p>
 
 > "A process that reduces the number of distinct colors used in an image, usually with the intention that the new image should be as visually similar as possible to the original image." 
