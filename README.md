@@ -1,3 +1,8 @@
+<h1 align="center">Color Palette Finder 🎨🖌️</h1>
+<p align="center">Application where the user can see a picture's color palette by uploading it.</p>
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
