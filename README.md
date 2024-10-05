@@ -1,6 +1,19 @@
 <h1 align="center">Color Palette Finder 🎨🖌️</h1>
 <p align="center">Application where the user can see a picture's color palette by uploading it.</p>
 
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/82726583/373906966-9db9e19d-470d-4913-9fed-d9e4b2702ecc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjgxNjE1NzgsIm5iZiI6MTcyODE2MTI3OCwicGF0aCI6Ii84MjcyNjU4My8zNzM5MDY5NjYtOWRiOWUxOWQtNDcwZC00OTEzLTlmZWQtZDllNGIyNzAyZWNjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA1VDIwNDc1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiNzc5ZjFlMTNkZTc1MWM5YWU2NzAyY2JiZWE5NTA1YjBmNmYxOWNkZDU1NDJkNWU1MmY2ZDE2Yjc2MDVmMmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ARuwCZbaZXipiklSQUG8leQyHupVOEtO9wdjnB87qiw"/>
+</p>
+<p align="center">The picture is "The Fallen Angel" by Alexandre Cabanel.It depicts a striking and melancholic figure of a fallen angel, representing the themes of loss and beauty. The angel, with exquisite features and delicate wings, sits in a contemplative pose, embodying both grace and sorrow. The play of light and shadow enhances the angel's ethereal beauty while highlighting the sadness of its exile. The painting captures the tension between divine beauty and human vulnerability, inviting viewers to reflect on the complexity of existence and the nature of redemption.</p>
+
+<h2>Technologies ⚙️</h2>
+
+<p>Project Made with React.The image's color palette is found through a JavaScript algorithm that uses a technique called Color Quantization.Wikipedia describes Color Quantizationn as:
+</p>
+
+> "A process that reduces the number of distinct colors used in an image, usually with the intention that the new image should be as visually similar as possible to the original image." 
+
+<p>The code generates a gigantic array with the RGBs of every pixel in the image.The algorithm then uses color quantization to reduce the number of items in that array,while maintaining the color set visually similar to the original set.</p>
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
