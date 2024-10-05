@@ -111,7 +111,8 @@ export default function ButtonInput() {
         r: 236,
         g: 219,
         b: 187,
-      },
+      }
+      
     ]);
 
     setImgSrc("/guts.jpg");
