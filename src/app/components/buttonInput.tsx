@@ -114,7 +114,7 @@ export default function ButtonInput() {
       },
     ]);
 
-    setImgSrc("/cat.jpg");
+    setImgSrc("/guts.jpg");
   }, []);
 
   const handleFileChange = (e) => {
