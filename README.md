@@ -1,4 +1,12 @@
 <h1 align="center">Color Palette Finder 🎨🖌️</h1>
+
+<p align="center">
+   <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</p>
+ 
+
+
 <p align="center">Application where the user can see a picture's color palette by uploading it.</p>
 
 <p align="center">
