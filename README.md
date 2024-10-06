@@ -23,6 +23,8 @@
 
 </p>
 
+<h1 align="center">🎃🪦🕸️</h1>
+
 
 <h2>Technologies ⚙️</h2>
 
