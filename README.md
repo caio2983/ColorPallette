@@ -14,6 +14,16 @@
 </p>
 <p align="center">The picture is "The Fallen Angel" by Alexandre Cabanel.It depicts a striking and melancholic figure of a fallen angel, representing the themes of loss and beauty. The angel, with exquisite features and delicate wings, sits in a contemplative pose, embodying both grace and sorrow. The play of light and shadow enhances the angel's ethereal beauty while highlighting the sadness of its exile. The painting captures the tension between divine beauty and human vulnerability, inviting viewers to reflect on the complexity of existence and the nature of redemption. (chat gpt 👍)</p>
 
+
+<hr>
+
+
+<p align="center">
+   <img src="https://private-user-images.githubusercontent.com/82726583/373914580-7c27e107-abaf-4489-9e1e-96dd38e2e23b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjgxNzUwOTAsIm5iZiI6MTcyODE3NDc5MCwicGF0aCI6Ii84MjcyNjU4My8zNzM5MTQ1ODAtN2MyN2UxMDctYWJhZi00NDg5LTllMWUtOTZkZDM4ZTJlMjNiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA2VDAwMzMxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI0YjVlMDE5MzM3NTQ3MDljMTA4ZTQ0OGNkZGM2MTlhNGM1YTc3MDljMTI1NTA4MDAxMmVmYjlmYTVmM2Y4YmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9PBMDfMUl-fMXgjtJZEkvBUxVP6qM3qfz46JgEC6kbI"/>
+
+</p>
+
+
 <h2>Technologies ⚙️</h2>
 
 <p>Project Made with React while I was learning NextJS' basics.The image's color palette is found through a JavaScript algorithm that uses a technique called Color Quantization.Wikipedia describes Color Quantizationn as:
