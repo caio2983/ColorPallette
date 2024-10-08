@@ -10,7 +10,7 @@
 <p align="center">Application where the user can see a picture's color palette by uploading it.</p>
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/82726583/373906966-9db9e19d-470d-4913-9fed-d9e4b2702ecc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjgxNjE1NzgsIm5iZiI6MTcyODE2MTI3OCwicGF0aCI6Ii84MjcyNjU4My8zNzM5MDY5NjYtOWRiOWUxOWQtNDcwZC00OTEzLTlmZWQtZDllNGIyNzAyZWNjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA1VDIwNDc1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiNzc5ZjFlMTNkZTc1MWM5YWU2NzAyY2JiZWE5NTA1YjBmNmYxOWNkZDU1NDJkNWU1MmY2ZDE2Yjc2MDVmMmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ARuwCZbaZXipiklSQUG8leQyHupVOEtO9wdjnB87qiw"/>
+  <img src="/images/fallenangel.png"/>
 </p>
 <p align="center">The picture is "The Fallen Angel" by Alexandre Cabanel.It depicts a striking and melancholic figure of a fallen angel, representing the themes of loss and beauty. The angel, with exquisite features and delicate wings, sits in a contemplative pose, embodying both grace and sorrow. The play of light and shadow enhances the angel's ethereal beauty while highlighting the sadness of its exile. The painting captures the tension between divine beauty and human vulnerability, inviting viewers to reflect on the complexity of existence and the nature of redemption. (chat gpt 👍)</p>
 
@@ -19,7 +19,7 @@
 
 
 <p align="center">
-   <img src="https://private-user-images.githubusercontent.com/82726583/373914580-7c27e107-abaf-4489-9e1e-96dd38e2e23b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjgzMzQyNjksIm5iZiI6MTcyODMzMzk2OSwicGF0aCI6Ii84MjcyNjU4My8zNzM5MTQ1ODAtN2MyN2UxMDctYWJhZi00NDg5LTllMWUtOTZkZDM4ZTJlMjNiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA3VDIwNDYwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk1Y2Q5ZGViZGNhNDkzMzJmZDU4ZjdmOTJlZmZiNDQ4N2ZjYzg2N2YyNzZkNDhjMDZhY2MzYmY3MzAwOTE3OTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0gktDKV9K74-1iEXk8OjIrRYy0mTJYHcH-UsU2PEI-c"/>
+   <img src="/images/halloween.png"/>
 
 </p>
 
